@@ -3,14 +3,17 @@ html {
 }
 
 body {
-    background: url('/assets/images/ForGoodnessCakeLogoWidescreen.jpg') no-repeat center center fixed;
-    background-size: cover;
     color: #f8f1ef;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+#introduction {
+    background: url('/assets/images/ForGoodnessCakeLogoWidescreen.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
 #about {
-    background: url('/assets/images/bg.jpg') no-repeat left bottom;
+    background: url('/assets/images/bg.jpg') no-repeat left center fixed;
     background-size: cover;
 }
 
