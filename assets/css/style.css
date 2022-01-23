@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url('/assets/images/ForGoodnessCakeLogo.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #f8f1ef;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#about {
+    background: url('/assets/images/bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+#contact {
+    background: url('/assets/images/bg1.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.view-height {
+    height: 95vh;
+}
+
+.logo-font{
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.logo-color {
+    color: #1b130f;
+}
+
+.main-logo-link {
+    width: fit-content;
+}
+
+.contact-now-button {
+    background:#1b130f;
+    color:#f8f1ef;
+}
+
+.contact-now-button:hover,
+.contact-now-button:active,
+.contact-now-button:focus {
+    background: #3f2d2c;
+    color:#f8f1ef;
+}
+
+.contact-now-button-position {
+    position: fixed;
+    bottom: 30px;
+}
+
+.header-container {
+    padding-top: 50px;
+}
+
+.palette {
+    color: #e1bdbd;
+    color: #3f2d2c;
+    color: #e2bcb8;
+    color: #bc403c;
+    color: #1b130f;
+    color: #c2706a;
+    color: #bc6a4a;
+    color: #f8f1ef;
+    color: #91b8bf;
+    color: #f0dbe4;
+}
