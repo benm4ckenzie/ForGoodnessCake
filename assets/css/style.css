@@ -56,8 +56,17 @@ body {
     bottom: 30px;
 }
 
+.submit-btn-color {
+    background:#91b8bf;
+    color:#f8f1ef;
+}
+
 .header-container {
     padding-top: 50px;
+}
+
+.center-form {
+    margin: 0;
 }
 
 .palette {
