@@ -44,16 +44,21 @@ body {
     color:#f8f1ef;
 }
 
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-now-button-position { 
+    position: fixed;
+    bottom: 15%;
+}
+
 .contact-now-button:hover,
 .contact-now-button:active,
 .contact-now-button:focus {
     background: #3f2d2c;
     color:#f8f1ef;
-}
-
-.contact-now-button-position {
-    position: fixed;
-    bottom: 15%;
 }
 
 .submit-btn-color {
