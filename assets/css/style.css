@@ -8,17 +8,17 @@ body {
 }
 
 #introduction {
-    background: url('https://benm4ckenzie.github.io/ForGoodnessCake/blob/main/assets/images/ForGoodnessCakeLogoWidescreen.jpg') no-repeat center center fixed;
+    background: url('../images/ForGoodnessCakeLogoWidescreen.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 #about {
-    background: url('assets/images/bg.jpg') no-repeat left center fixed;
+    background: url('../images/bg.jpg') no-repeat left center fixed;
     background-size: cover;
 }
 
 #contact {
-    background: url('assets/images/bg1.jpg') no-repeat center center;
+    background: url('../images/bg1.jpg') no-repeat center center;
     background-size: cover;
     height: 85vh !important;
 }
