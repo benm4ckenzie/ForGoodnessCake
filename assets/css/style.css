@@ -13,7 +13,7 @@ body {
 }
 
 #about {
-    background: url('../images/bg.jpg') no-repeat left center;
+    background: url('../images/bg.jpg') no-repeat left center fixed;
     background-size: cover;
 }
 
@@ -50,6 +50,11 @@ body {
     justify-content: center;
 }
 
+.flex-center {
+    align-items: center;
+    text-align: center;
+}
+
 .flex-bottom { 
     align-items: end;
 }
@@ -61,6 +66,9 @@ body {
     color:#f8f1ef;
 }
 
+.about-box {
+    background-color: rgba(0, 0, 0, 0.5);
+}
 .submit-btn-color {
     background:#91b8bf;
     color:#f8f1ef;
