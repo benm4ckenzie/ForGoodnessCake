@@ -9,16 +9,25 @@ body {
 
 #introduction {
     background: url('../images/ForGoodnessCakeLogoWidescreen.jpg') no-repeat center center fixed;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
 #about {
     background: url('../images/bg(2).jpg') no-repeat center center fixed;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
 #contact {
     background: url('../images/bg1.jpg') no-repeat center center;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     height: 85vh !important;
 }
