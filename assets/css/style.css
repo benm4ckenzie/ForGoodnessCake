@@ -20,6 +20,7 @@ body {
 #contact {
     background: url('/assets/images/bg1.jpg') no-repeat center center;
     background-size: cover;
+    height: 85vh !important;
 }
 
 .view-height {
@@ -40,7 +41,7 @@ body {
 }
 
 .contact-now-button {
-    background:#1b130f;
+    background:#91b8bf;
     color:#f8f1ef;
 }
 
@@ -49,9 +50,8 @@ body {
     justify-content: center;
 }
 
-.contact-now-button-position { 
-    position: fixed;
-    bottom: 15%;
+.flex-bottom { 
+    align-items: end;
 }
 
 .contact-now-button:hover,
@@ -72,6 +72,14 @@ body {
 
 .center-form {
     margin: 0;
+}
+
+.card-footer{
+    background-color: #91b8bf !important;
+}
+
+.social-media-logo {
+    color: #f8f1ef;
 }
 
 .palette {
