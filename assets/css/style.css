@@ -8,6 +8,10 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+img {
+    max-width: 90%;
+}
+
 #introduction {
     background: url('../images/ForGoodnessCakeLogoWidescreen.jpg') no-repeat center center;
     -webkit-background-size: cover;
